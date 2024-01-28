@@ -28,5 +28,5 @@ This repository contains the source code for `ft_irc`, an Internet Relay Chat (I
 - Optional Configuration File
 
 #### Additional Notes
-- The project is part of a programming curriculum, emphasizing mastery of C++ concepts and robust, clean coding practices.
+- This group project is part of the 42 programming curriculum, emphasizing mastery of C++ concepts and robust, clean coding practices.
 - It is tailored for educational purposes, demonstrating the implementation of a functional IRC server using classic C++ techniques.
